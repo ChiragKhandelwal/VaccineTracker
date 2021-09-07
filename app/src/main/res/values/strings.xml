@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vaccination</string>
+    <string name="slots">Slots Remaining %d</string>
+</resources>
